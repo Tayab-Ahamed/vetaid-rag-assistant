@@ -1,0 +1,253 @@
+================================================================================
+OFFICIAL VETERINARY EMERGENCY REFERENCE - CURATED SUPPLEMENT
+================================================================================
+This file supplements the local knowledge base with concise, review-friendly
+notes paraphrased from well-known veterinary and animal emergency resources.
+It is designed for retrieval quality, citation clarity, and safer emergency
+triage responses for dogs and cats.
+================================================================================
+
+--------------------------------------------------------------------------------
+TOPIC: UNIVERSAL EMERGENCY TRIAGE FOR DOGS AND CATS
+SOURCE: Merck Veterinary Manual - What to Do in a Dog or Cat Emergency
+URL: https://www.merckvetmanual.com/special-pet-topics/emergencies/what-to-do-in-a-dog-or-cat-emergency
+--------------------------------------------------------------------------------
+
+Use this topic when the owner is unsure whether a problem is an emergency.
+
+Immediate veterinary attention is needed for:
+- poisoning
+- severe or uncontrolled bleeding
+- trouble breathing
+- serious eye injuries
+- suspected fractures or inability to use a limb
+- collapse, unresponsiveness, or major trauma
+
+First-aid principles:
+1. Protect the owner first because injured pets may bite or scratch.
+2. Call the veterinarian or emergency clinic early so transport and first-aid steps can be guided by phone.
+3. Focus first on airway, breathing, and circulation concerns.
+4. Keep movement minimal during transport, especially after trauma.
+5. Use a flat board, thick cardboard, or a folded blanket to support an injured pet.
+
+--------------------------------------------------------------------------------
+TOPIC: EMERGENCY BLEEDING CONTROL
+SOURCE: Merck Veterinary Manual - What to Do in a Dog or Cat Emergency
+URL: https://www.merckvetmanual.com/special-pet-topics/emergencies/what-to-do-in-a-dog-or-cat-emergency
+--------------------------------------------------------------------------------
+
+Helpful when the pet has active external bleeding.
+
+Important signs:
+- blood loss that does not slow quickly
+- weakness, pale gums, collapse, or rapid breathing
+- blood soaking through improvised bandages
+
+What to do:
+1. Press firmly on the wound with a clean cloth, towel, or gauze.
+2. Apply a firm bandage if possible, but do not make it so tight that it cuts circulation.
+3. If blood soaks through, add more material on top instead of removing the first layer.
+4. Continue direct pressure during transport.
+5. Seek urgent veterinary care if bleeding is severe, persistent, or associated with weakness or collapse.
+
+--------------------------------------------------------------------------------
+TOPIC: BURNS, CHEMICAL EXPOSURE, AND SURFACE HEAT INJURY
+SOURCE: Merck Veterinary Manual - What to Do in a Dog or Cat Emergency
+URL: https://www.merckvetmanual.com/special-pet-topics/emergencies/what-to-do-in-a-dog-or-cat-emergency
+--------------------------------------------------------------------------------
+
+Use this topic for thermal burns, chemical burns, and hot-surface paw injuries.
+
+What to do:
+1. Remove the pet from the source of heat or chemical exposure.
+2. Flush the affected area gently with cool water.
+3. Cover the area with a clean nonstick dressing if available.
+4. Do not apply butter, toothpaste, harsh cleaners, or home remedies.
+5. Face burns, airway burns, electrical burns, large burns, and chemical burns are emergencies.
+
+--------------------------------------------------------------------------------
+TOPIC: HEAT STROKE IN DOGS AND CATS
+SOURCE: American Red Cross - Dog Heat Stroke
+URL: https://www.redcross.org/take-a-class/resources/learn-pet-first-aid/dog/heat-stroke
+SOURCE: Merck Veterinary Manual - What to Do in a Dog or Cat Emergency
+URL: https://www.merckvetmanual.com/special-pet-topics/emergencies/what-to-do-in-a-dog-or-cat-emergency
+--------------------------------------------------------------------------------
+
+Heat stroke is a life-threatening emergency.
+
+Warning signs:
+- collapse
+- excessive panting or difficulty breathing
+- drooling or heavy salivation
+- vomiting or bloody diarrhea
+- wobbliness, distress, or uncoordinated movement
+- very red mucous membranes
+
+Useful temperature guidance:
+- normal body temperature for dogs is about 99.5 to 102.5 F
+- overheating concern rises when temperature is above 104 F
+
+First aid:
+1. Move the pet out of direct heat immediately.
+2. Cool with cool water, wet towels, and airflow from a fan.
+3. Focus cooling on the head, neck, chest, abdomen, and feet when practical.
+4. Do not immerse in ice water or aggressively overcool.
+5. Offer small amounts of water only if the pet is conscious and improving.
+6. Go to a veterinarian immediately even if the pet seems better.
+
+--------------------------------------------------------------------------------
+TOPIC: DOG CHOKING FIRST AID
+SOURCE: American Red Cross - What to Do if Your Dog is Choking
+URL: https://www.redcross.org/take-a-class/resources/learn-pet-first-aid/dog/choking
+SOURCE: Merck Veterinary Manual - What to Do in a Dog or Cat Emergency
+URL: https://www.merckvetmanual.com/special-pet-topics/emergencies/what-to-do-in-a-dog-or-cat-emergency
+--------------------------------------------------------------------------------
+
+Possible choking signs:
+- frantic behavior
+- pawing at the mouth
+- loud breathing sounds
+- gasping
+- blue or white gums
+- inability to breathe normally
+
+First aid:
+1. Open the mouth only if it is safe and look for a visible object.
+2. Avoid blindly pushing fingers deep into the mouth.
+3. If the object cannot be removed, use abdominal thrusts and back blows as emergency measures.
+4. If the dog becomes unresponsive, begin rescue breathing and CPR if needed.
+5. Even after the object is removed, the dog still needs immediate veterinary evaluation because choking can injure the airway or lungs.
+
+--------------------------------------------------------------------------------
+TOPIC: CAT SEIZURE EMERGENCY GUIDANCE
+SOURCE: American Red Cross - Seizures in Cats
+URL: https://www.redcross.org/take-a-class/resources/learn-pet-first-aid/cat/seizures
+--------------------------------------------------------------------------------
+
+Use this topic for active seizures and the short recovery period afterward.
+
+What to do:
+1. Keep the cat in a safe area and move furniture or hazards away if possible.
+2. Do not restrain the cat.
+3. Keep hands away from the mouth.
+4. Time the seizure if possible.
+5. Treat seizures lasting more than 3 to 4 minutes as emergencies.
+6. Repeated seizures or poor recovery between seizures need urgent veterinary care.
+
+--------------------------------------------------------------------------------
+TOPIC: TOP HOUSEHOLD TOXIN GROUPS FOR PETS
+SOURCE: ASPCA Animal Poison Control Center - The Official Top 10 Toxins of 2024
+URL: https://www.aspca.org/news/official-top-10-toxins-2024
+--------------------------------------------------------------------------------
+
+ASPCA reported that in 2024, over-the-counter human medications remained the top exposure category and accounted for 16.5 percent of reported exposures.
+
+Common toxin groups to consider in history taking:
+- over-the-counter human medicines
+- prescription medicines
+- human foods and drinks
+- chocolate
+- veterinary products used incorrectly
+- plants and mushrooms
+- recreational drugs
+- rodenticides and insecticides
+
+Safer first-aid framing:
+1. Ask exactly what substance was involved, how much, and when exposure happened.
+2. Do not recommend inducing vomiting unless a veterinarian or poison expert instructs it.
+3. Keep packaging, photos, or product labels ready for the clinic or poison hotline.
+4. Escalate immediately when the pet has tremors, collapse, trouble breathing, repeated vomiting, or altered behavior.
+
+--------------------------------------------------------------------------------
+TOPIC: URINARY BLOCKAGE IN MALE CATS
+SOURCE: Merck Veterinary Manual - Urinary Stones in Cats
+URL: https://www.merckvetmanual.com/cat-owners/kidney-and-urinary-tract-disorders-of-cats/urinary-stones-uroliths-calculi-in-cats
+--------------------------------------------------------------------------------
+
+This is one of the most important cat emergencies in a first-aid chatbot.
+
+Typical warning signs:
+- frequent trips to the litter box
+- straining
+- only drops of urine or no urine
+- crying in pain
+- vomiting
+- low energy or hiding
+
+Risk framing:
+- complete blockage can cause dangerous toxin buildup within 1 to 2 days
+- death may occur within about 3 days if complete obstruction is not relieved
+
+What to do:
+1. Treat inability to pass urine as an emergency.
+2. Do not squeeze the bladder or press repeatedly on the lower abdomen.
+3. Do not give human pain medicine.
+4. Transport to a veterinarian or emergency clinic immediately.
+
+--------------------------------------------------------------------------------
+TOPIC: BLOAT OR GDV IN DOGS
+SOURCE: VCA Animal Hospitals - Bloat: Gastric Dilatation and Volvulus in Dogs
+URL: https://vcahospitals.com/know-your-pet/bloat-gastric-dilatation-and-volvulus-in-dogs
+SOURCE: Merck Veterinary Manual - Gastric Dilation and Volvulus in Small Animals
+URL: https://www.merckvetmanual.com/digestive-system/diseases-of-the-stomach-and-intestines-in-small-animals/gastric-dilation-and-volvulus-in-small-animals
+--------------------------------------------------------------------------------
+
+GDV is a life-threatening emergency in dogs and requires immediate veterinary treatment.
+
+High-risk patterns:
+- large or deep-chested dogs
+- restlessness or distress after eating
+- heavy drooling
+- swollen abdomen
+- trouble breathing
+- repeated retching without producing vomit
+- collapse or inability to stand
+
+Important notes:
+- VCA describes GDV as one of the most serious non-traumatic emergencies in dogs.
+- Dogs over 100 pounds have about a 20 percent lifetime risk of bloat according to the VCA summary.
+
+What to do:
+1. Do not give food, water, or home remedies.
+2. Do not wait for the abdomen to become obviously huge.
+3. Go to an emergency veterinarian immediately.
+
+--------------------------------------------------------------------------------
+TOPIC: PET CPR AND TRANSPORT BASICS
+SOURCE: Merck Veterinary Manual - What to Do in a Dog or Cat Emergency
+URL: https://www.merckvetmanual.com/special-pet-topics/emergencies/what-to-do-in-a-dog-or-cat-emergency
+--------------------------------------------------------------------------------
+
+Use this topic only for high-acuity situations where the pet is unconscious or not breathing.
+
+Key points:
+- first check chest movement and whether a heartbeat can be felt
+- pet CPR starts with chest compressions around 100 to 120 per minute
+- if CPR is needed during transport, another person should drive
+
+Transport basics:
+1. Keep the head, neck, and spine as still as possible after trauma.
+2. Use a firm board, cardboard, or folded blanket to carry the pet.
+3. Keep anything from pressing on the neck when breathing is difficult.
+
+--------------------------------------------------------------------------------
+TOPIC: EMERGENCY PREPAREDNESS AND FIRST-AID KIT
+SOURCE: Merck Veterinary Manual - First Aid Kit for a Pet
+URL: https://www.merckvetmanual.com/special-pet-topics/emergencies/first-aid-kit-for-a-pet
+--------------------------------------------------------------------------------
+
+Good first-aid kit items for a dog or cat include:
+- muzzle
+- gauze, sterile pads, stretch bandage, and tape
+- blunt scissors
+- saline solution
+- tweezers or forceps
+- gloves
+- thermometer
+- lubricating jelly
+- a small supply of regular prescribed medications
+
+Preparedness reminders:
+1. A first-aid kit is not a substitute for veterinary care.
+2. Owners should know how to use the kit items before an emergency happens.
+3. Medication expiry dates should be checked regularly.

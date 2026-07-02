@@ -1,0 +1,40 @@
+# Environment — never commit API keys!
+.env
+
+# Vector store (auto-rebuilt from data)
+chroma_db/
+
+# Chat histories/sessions
+chat_sessions/
+
+# Uploaded files
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Logs
+logs/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
