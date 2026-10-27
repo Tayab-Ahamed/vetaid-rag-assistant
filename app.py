@@ -1060,6 +1060,13 @@ def render_message_tabs(entry: dict, show_sources: bool, key_prefix: str) -> Non
 
 
 def save_uploaded_files(uploaded_files) -> list[str]:
+    # Names arrive from clients. Validate the entire batch before writing anything,
+    # including Windows separators/drive prefixes when this app runs on Linux.
+    for uploaded_file in uploaded_files:
+        name = uploaded_file.name
+        if (not isinstance(name, str) or name in {"", ".", ".."}
+                or Path(name).name != name or any(char in name for char in "/\\:\x00")):
+            raise ValueError("Reference filename must be a plain filename without directories.")
     upload_dir = Path("uploads")
     upload_dir.mkdir(exist_ok=True)
 
@@ -1348,12 +1355,17 @@ with st.sidebar:
         if uploaded_files:
             uploaded_names = sorted(file.name for file in uploaded_files)
             if uploaded_names != st.session_state.last_loaded_reference_names:
-                st.session_state.extra_reference_paths = save_uploaded_files(uploaded_files)
-                st.session_state.last_loaded_reference_names = uploaded_names
-                st.session_state.rag_runtime = None
-                st.session_state.latest_result = None
-                st.success(f"Added {len(uploaded_names)} custom reference file(s).")
-                st.rerun()
+                try:
+                    saved_paths = save_uploaded_files(uploaded_files)
+                except (ValueError, OSError) as exc:
+                    st.error(f"Unable to save reference files: {exc}")
+                else:
+                    st.session_state.extra_reference_paths = saved_paths
+                    st.session_state.last_loaded_reference_names = uploaded_names
+                    st.session_state.rag_runtime = None
+                    st.session_state.latest_result = None
+                    st.success(f"Added {len(uploaded_names)} custom reference file(s).")
+                    st.rerun()
 
         if st.session_state.extra_reference_paths:
             st.markdown("**Custom files active:**")
